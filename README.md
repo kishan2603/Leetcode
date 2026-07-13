@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/kishan2603/Leetcode/tree/master/0101-symmetric-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/kishan2603/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
