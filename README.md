@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/kishan2603/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/kishan2603/Leetcode/tree/master/0518-coin-change-ii) |
 ## Tree
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/kishan2603/Leetcode/tree/master/1291-sequential-digits) |
+## String
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/kishan2603/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->
