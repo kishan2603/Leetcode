@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kishan2603/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kishan2603/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kishan2603/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0239-sliding-window-maximum](https://github.com/kishan2603/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kishan2603/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0518-coin-change-ii](https://github.com/kishan2603/Leetcode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kishan2603/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -146,4 +147,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/kishan2603/Leetcode/tree/master/1260-shift-2d-grid) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kishan2603/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kishan2603/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kishan2603/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kishan2603/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
