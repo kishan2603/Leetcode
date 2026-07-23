@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kishan2603/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1260-shift-2d-grid](https://github.com/kishan2603/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishan2603/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/kishan2603/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishan2603/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishan2603/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/kishan2603/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishan2603/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishan2603/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kishan2603/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/kishan2603/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
