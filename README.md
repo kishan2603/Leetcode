@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kishan2603/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/kishan2603/Leetcode/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kishan2603/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kishan2603/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kishan2603/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kishan2603/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kishan2603/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kishan2603/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishan2603/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
