@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kishan2603/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/kishan2603/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kishan2603/Leetcode/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kishan2603/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kishan2603/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kishan2603/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/kishan2603/Leetcode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/kishan2603/Leetcode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/kishan2603/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/kishan2603/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kishan2603/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kishan2603/Leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kishan2603/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kishan2603/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
