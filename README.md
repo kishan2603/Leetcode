@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kishan2603/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kishan2603/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kishan2603/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kishan2603/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kishan2603/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kishan2603/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0496-next-greater-element-i](https://github.com/kishan2603/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kishan2603/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kishan2603/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishan2603/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kishan2603/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kishan2603/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -196,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kishan2603/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kishan2603/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/kishan2603/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kishan2603/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kishan2603/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
