@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/kishan2603/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/kishan2603/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kishan2603/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kishan2603/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/kishan2603/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1092-shortest-common-supersequence](https://github.com/kishan2603/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kishan2603/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kishan2603/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kishan2603/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kishan2603/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kishan2603/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kishan2603/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kishan2603/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishan2603/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kishan2603/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kishan2603/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kishan2603/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kishan2603/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kishan2603/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kishan2603/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kishan2603/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -247,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kishan2603/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kishan2603/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kishan2603/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
