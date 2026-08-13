@@ -367,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kishan2603/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/kishan2603/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
