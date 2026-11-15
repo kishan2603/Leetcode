@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/kishan2603/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kishan2603/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/kishan2603/Leetcode/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishan2603/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishan2603/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kishan2603/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kishan2603/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/kishan2603/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kishan2603/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/kishan2603/Leetcode/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishan2603/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kishan2603/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tree
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kishan2603/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/kishan2603/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1406-stone-game-iii](https://github.com/kishan2603/Leetcode/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishan2603/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/kishan2603/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishan2603/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishan2603/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/kishan2603/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishan2603/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kishan2603/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Backtracking
 |  |
