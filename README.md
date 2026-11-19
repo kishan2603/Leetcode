@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/kishan2603/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kishan2603/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/kishan2603/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kishan2603/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishan2603/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishan2603/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kishan2603/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
