@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/kishan2603/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1254-number-of-closed-islands](https://github.com/kishan2603/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kishan2603/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kishan2603/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/kishan2603/Leetcode/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishan2603/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishan2603/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kishan2603/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kishan2603/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/kishan2603/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kishan2603/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/kishan2603/Leetcode/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishan2603/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/kishan2603/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kishan2603/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kishan2603/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/kishan2603/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kishan2603/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kishan2603/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kishan2603/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Backtracking
@@ -451,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/kishan2603/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/kishan2603/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
